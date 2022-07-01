@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ProfileCard"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "This library helps you to create photo id in single line of code."
 
   spec.description  = <<-DESC
